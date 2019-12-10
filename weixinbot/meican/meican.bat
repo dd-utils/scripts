@@ -1,3 +1,3 @@
 @echo off
 cd /d %~dp0
-Python meican.py
+Python3 meican.py
